@@ -12,8 +12,8 @@ git clone https://github.com/OCOYE/arch-epson-setup.git
 </pre>
 After the installation, acess the folder and execute the ``start.sh`` script:
 <pre>
-  cd arch-epson-setup
-  ./start.sh
+cd arch-epson-setup
+./start.sh
 </pre>
 
 
