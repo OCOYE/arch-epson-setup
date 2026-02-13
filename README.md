@@ -5,6 +5,7 @@ A tiny script written in bash to install and configure all epson drivers to arch
 # Installation
 Before to install this script, you need the **YAY** installed in your system.
 Link here to install **YAY**: 
+
 https://github.com/Jguer/yay
 
 Execute this command in your terminal to install:
